@@ -1,6 +1,6 @@
-Formación Front-End | Portafolio Personal
+Formación Front-End | Portafolio
 
-Proyecto de Alura Latam en el que el desafío será crear un portafolio personal en el que mostremos nuestros proyectos desarrollados a lo largo de nuestra carrera como Devs, compartir nuestras experiencias laborales, así como nuestras soft-skills, este será dividido en diversas etapas:
+Proyecto de Alura Latam se debe crear un portafolio personal en el cual se muestre lo aprendido en el trayecto del curso, formacion personal, así como nuestras soft-skills, este será dividido en diversas etapas:
 
 **Requisitos:**
 
